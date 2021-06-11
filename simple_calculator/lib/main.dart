@@ -60,7 +60,7 @@ class _Body extends State<Body> {
             ),
           ),
         ),
-        // calculator pad
+        // calculator buttons
         Expanded(
           child: Container(
             height: MediaQuery.of(context).size.height / 0.75,
